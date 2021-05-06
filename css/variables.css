@@ -1,0 +1,9 @@
+:root {
+  --font-family: "Mulish", sans-serif;
+  --primary: #2071e7;
+  --light: #00c3ff;
+  --dark: #2980b9;
+  --text: #333;
+  --background: #fafafa;
+  --hint: #999;
+  --border: rgba(211, 211, 211, 0.856); }
